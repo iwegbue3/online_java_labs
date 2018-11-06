@@ -2,32 +2,79 @@ Answer the following questions:
 
 1.) Using the command line, how do you:
     a. change directories?
+    Answer
+    You change directories using the command cd [directory_name]
+
     b. list the contents of a folder?
+    Answer
+    You list the contents of a folder using the command ls with optional arguments [-altr]
+
     c. print the path of the current directory?
+    Answer
+    You print the path of the current directory using the command pwd
+
     d. move a file from one location to the another?
+    Answer
+    mv [path of current file] [path of destination location]
+
     e. copy a file from one location to another?
+    Answer
+    cp [current file path location] [destination file path location]
+
     f. create a file?
+    Answer
+    Go to file location and issue the command vim [filename].
+
     g. create a folder?
+    Answer
+    mkdir [folder_name]
+
     h. delete a file?
+    Answer
+    rm [file_name]
+
     i. delete a folder?
+    Answer
+    rmdir [name of folder]
+
     j. print the contents of a file?
+    Answer
+    Cat [name of file]
+
     k. edit the contents of a file?
+    Answer
+    Vim [name of file]
 
 2.) Why do we use git and Github?
+Answer
+We use git to 
 
 3.) What is the general flow of git?
+Answer
+-Make changes to your code files (you want to track and backup those changes)
+-We use git add to add those changes to the staging area
+-We use git commit to commit those changes to the git record
+-we use the git push to push those changes to the repository
 
 4.) What is the purpose of adding a remote to a local git repository?
 
 5.) How do you print a message to the console?
+Answer
+You print a message to the console by typing System.out.println("[message]")
 
-6.) Where does a program begin its execution?
+6.) Where does a program begin its execution
+Answer
+A program begins its execution from the main method
 
 7.) What is a code block and how do you create one?
+Answer
+A code block is a group of two or more statements. You create code blocks by enclosing the group of statements between opening and curly braces
 
 8.) What is the idea of variable scope?
 
 9.) What are semicolons used for?
+Answer
+Semicolons are used to end java statements.
 
 10.) What are lines of code indented? When should a line be indented?
 
