@@ -83,7 +83,7 @@ Semicolons are used to end java statements.
 
 10.) What are lines of code indented? When should a line be indented?
 Answer
-Lines of code are indented to make code writing easier to read and understand. 
+Lines of code are indented to make code writing easier to read and understand.
 
 11.) What does a .java file need to be complied to a .class file before running?
 
