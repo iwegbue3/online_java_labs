@@ -47,7 +47,7 @@ Answer the following questions:
 
 2.) Why do we use git and Github?
 Answer
-We use git to 
+We use git to host, track and save changes made to our code. Github is an online repository used to host, track and save changes made to code files
 
 3.) What is the general flow of git?
 Answer
@@ -57,6 +57,9 @@ Answer
 -we use the git push to push those changes to the repository
 
 4.) What is the purpose of adding a remote to a local git repository?
+Answer
+We add a remote to a local git repository to help push changes made on our local repository to github, which is a remote repository
+
 
 5.) How do you print a message to the console?
 Answer
@@ -71,12 +74,16 @@ Answer
 A code block is a group of two or more statements. You create code blocks by enclosing the group of statements between opening and curly braces
 
 8.) What is the idea of variable scope?
+Answer
+The idea of variable scope is to localize a variable, protecting it from unauthorized access or modification. Codes outside this scope cannot access the  variables within the scope
 
 9.) What are semicolons used for?
 Answer
 Semicolons are used to end java statements.
 
 10.) What are lines of code indented? When should a line be indented?
+Answer
+Lines of code are indented to make code writing easier to read and understand. 
 
 11.) What does a .java file need to be complied to a .class file before running?
 
